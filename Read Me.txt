@@ -1,0 +1,10 @@
+The game file is A4ChristmasPresent.jar which has to run via command
+
+java -jar --module-path "path to javafx-sdk library folder" --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.media A4ChristmasPresent.jar
+
+in the cmd at the game folder
+
+
+***	In case you don't have any resources to run the .jar file you can 
+	see the game mechanics and detail in the StarPlatinum.pdf file
+	(the in-game pics are in page 2-3)					***
